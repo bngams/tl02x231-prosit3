@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "generate": "node generate-data.js",
+    "stream": "node stream-data.js",
+    "socket": "node socket-data.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
